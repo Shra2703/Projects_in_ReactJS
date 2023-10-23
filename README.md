@@ -3,7 +3,22 @@
 
 ## 👨Projects Name with github repo link 🔗 and live link.
 
-> ### Minor Projects
+
+> ### Mini Projects
+
+- AnimePedia:        
+	- repo 🔗: https://github.com/Shra2703/AnimePedia    
+	- live 🔗: https://shra2703.github.io/AnimePedia/
+
+- Movie-Series-Project-in-ReactJS        
+	- repo 🔗: https://github.com/Shra2703/Movie-Series-Project-in-ReactJS  
+	- live 🔗: https://shra2703.github.io/Movie-Series-Project-in-ReactJS/
+
+- Code-Tube        
+	- repo 🔗: https://github.com/Shra2703/CodeTube-ReactJS-Project 
+	- live 🔗: https://shra2703.github.io/CodeTube-ReactJS-Project/
+
+> ### Small Projects
 
 - Quotify App React-js:        
 	- repo 🔗: https://github.com/Shra2703/Quotify-app-React-js    
